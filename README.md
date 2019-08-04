@@ -2,16 +2,16 @@
 
 # cd first_solution && go run main.go -file data.json
 
-# Read the file and loading into the object, then output to output.txt 
+Read the file and loading into the object, then output to output.txt 
 
-## Dind't count the empty userid
-## Remove the duplicate ID for the same user 
+Dind't count the empty userid
+Remove the duplicate ID for the same user 
 
 
 # The second solution 
 
-## Please copy the process.go to your **GOPATH** (json/process.go)
-## go run main.go -file data.json -r 100000  ( -c to clear the cache when you need )
+Please copy the process.go to your **GOPATH** (json/process.go)
+go run main.go -file data.json -r 100000  ( -c to clear the cache when you need )
 
 
 
