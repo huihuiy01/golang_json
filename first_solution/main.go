@@ -55,7 +55,7 @@ func main() {
 }
 
 func Processing(stats map[string]Stat) map[string]Stat {
-	// Open the file
+	// Open the data file
 	lines, err := os.Open(*fileName)
 	if err != nil {
 		panic(err)
